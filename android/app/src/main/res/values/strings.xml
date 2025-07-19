@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Elarix</string>
+    <string name="title_activity_main">Elarix</string>
+    <string name="package_name">com.ruingl.elarix</string>
+    <string name="custom_url_scheme">com.ruingl.elarix</string>
+</resources>
